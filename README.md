@@ -30,4 +30,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## IMG
-![Proje Görseli] (https://www.howtogeek.com/wp-content/uploads/2022/08/github_hero_2.jpg?height=200p&trim=2,2,2,2)
+![github](github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
